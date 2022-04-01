@@ -1,0 +1,12 @@
+.btn-blue{
+	background-color: red;
+	padding: 16px;
+	color:black;
+	font-weight: bold;
+	width: 25%;
+	margin: 15px auto;
+	display: block;
+	text-align: center;
+	border : 1px rgv(252,168,085);
+	border-radius: 6px;
+}
